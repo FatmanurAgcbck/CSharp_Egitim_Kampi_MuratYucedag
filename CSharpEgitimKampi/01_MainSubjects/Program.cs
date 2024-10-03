@@ -31,16 +31,16 @@ namespace _01_MainSubjects
 
 
             /*isimlendirme standartları
-            camel case => customerName 
-
+            camelCase => customerName
+            PascalCasing => CustomerName
+            
                 */
 
             //int -- tam sayı türündeki değişkenler
-            //float
-            //decimal
             //string -- "" arasına yazılır yazılanlar kelime sayılır. karakter sayı kelime vs de yazılabilir
-            //boolean
-            //char
+            //boolean --true false değerlers
+            //double -- ondalıklı sayılar
+            //char --karakter
 
             // değişken_türü değişken_adı;
             //string name;
@@ -168,6 +168,9 @@ namespace _01_MainSubjects
 
 
             #endregion
+
+
+            
 
 
 
