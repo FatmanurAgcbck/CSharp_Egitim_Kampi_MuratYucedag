@@ -1,0 +1,7 @@
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\fatma\OneDrive\Masaüstü\Reposito\CSharp_Egitim_Kampi_MuratYucedag\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
