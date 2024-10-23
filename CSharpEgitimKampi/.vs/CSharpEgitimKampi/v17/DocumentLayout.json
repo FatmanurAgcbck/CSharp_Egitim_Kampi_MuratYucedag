@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BFAE6DC-1900-41F7-84E9-DAA90855EFBC}|08_Methods\\08_Methods.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_muratyucedag\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BFAE6DC-1900-41F7-84E9-DAA90855EFBC}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20DAAE7F-D13A-4C3E-B784-8C956528F5E1}|07_ForeachLoop\\07_ForeachLoop.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_muratyucedag\\csharpegitimkampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DAAE7F-D13A-4C3E-B784-8C956528F5E1}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090FFAA2-174F-4D34-837F-FD96ABFD8BA0}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\fatma\\onedrive\\masa\u00FCst\u00FC\\reposito\\csharp_egitim_kampi_muratyucedag\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090FFAA2-174F-4D34-837F-FD96ABFD8BA0}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\08_Methods\\Program.cs",
-              "RelativeToolTip": "08_Methods\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwFAAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:22:24.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
-              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
-              "ToolTip": "C:\\Users\\fatma\\OneDrive\\Masa\u00FCst\u00FC\\Reposito\\CSharp_Egitim_Kampi_MuratYucedag\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
-              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:40:50.982Z",
+              "WhenOpened": "2024-10-23T14:38:42Z",
               "EditorCaption": ""
             }
           ]
