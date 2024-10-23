@@ -13,12 +13,12 @@ Ayrıca, projeler yaparak integer ve string değerlerle ilgili uygulamalar yapı
 ______________________________________________
 
 ### 🔎 *Proje 2* --> ["Variable"](https://github.com/FatmanurAgcbck/CSharp_Egitim_Kampi_MuratYucedag/blob/main/CSharpEgitimKampi/02_Variables) 
-Bu projede, char ve double değişkenlerle uygulamalar yaptık. Ayrıca, klavyeden veri girişinin nasıl yapılacağını öğrendim. 
-Klavyeden veri girişi uygulamalarını gerçekleştirirken, int, double, string ve char değişkenlerinin nasıl girileceğini ve bu verilerin dönüşümlerinin nasıl yapılacağını keşfettim. 
+Bu projede, char ve double değişkenlerle uygulamalar yaptık. Ayrıca, klavyeden veri girişinin nasıl yapılacağını öğrendim. Klavyeden veri girişi uygulamalarını gerçekleştirirken, int, double, string ve char değişkenlerinin nasıl girileceğini ve bu verilerin dönüşümlerinin nasıl yapılacağını keşfettim. 
+
 _________________________________________________
 
 ### 🔎 *Proje 3* --> ["If-Else Switch-Case"](https://github.com/FatmanurAgcbck/CSharp_Egitim_Kampi_MuratYucedag/tree/main/CSharpEgitimKampi/03_MakingDecision) 
-Bu projede, if, else ve switch case yapılarının kullanımını öğrendim. 
+Bu projede, if, else ve switch case yapılarını ve kullanımını öğrendim. 
 If ve else ile bir menü projesi, switch case ile de bir hesap makinesi projesi gerçekleştirdik. 
 Bu projeler sayesinde karar verme süreçlerini nasıl uygulayabileceğimi daha iyi kavradım.
 Ayrıca, mod alma işlemlerinin if bloklarında nasıl gerçekleştirileceğini de öğrendim.
@@ -39,7 +39,7 @@ ______________________________________________________
 
 ### 🔎 *Proje 6* --> ["Arrays"](https://github.com/FatmanurAgcbck/CSharp_Egitim_Kampi_MuratYucedag/tree/main/CSharpEgitimKampi/06_Arrays)
 Bu projede dizilerin yapısını, nasıl oluşturulduğunu, diziler aracılığıyla birden fazla değeri bir arada tutmanın ve döngüleri kullanarak bu verilere erişimin yollarını öğrendim. 
-Ayrıca dizilerde kullanılan metodları da keşfettim. 
+Ayrıca dizilerde kullanılan metotları pratik uygulamalarla öğrendim.. 
 Kullanıcıdan değer girmesi istenerek bir dizi oluşturulan bir proje gerçekleştirdik ve bu süreçte dizilerin nasıl çalıştığını daha iyi kavradım.
 ______________________________________________________
 
@@ -47,7 +47,7 @@ ______________________________________________________
 ### 🔎 *Proje 7* --> ["Foreach"](https://github.com/FatmanurAgcbck/CSharp_Egitim_Kampi_MuratYucedag/tree/main/CSharpEgitimKampi/07_ForeachLoop)
 Bu projede foreach döngüsünü diziler ve listelerle bir arada kullanmayı öğrendim. 
 Karar yapılarıyla foreach döngüsünü birleştirmenin yollarını keşfettim. 
-Ayrıca, for döngüsü ve if-else yapıları kullanarak bir sınav sistemi uygulaması geliştirdik. Bu uygulama, döngülerin ve karar yapıların birlikte kullanımını pekiştirmemi sağladı.
+Ayrıca, for döngüsü ve if-else yapıları kullanarak bir sınav sistemi uygulaması geliştirdik.Uygulama öğrencinin notlarına göre dersten geçip geçmediğini kontrol ediyor. Bu uygulama, döngülerin ve karar yapıların birlikte kullanımını pekiştirmemi sağladı.
 ______________________________________________________
 
 
