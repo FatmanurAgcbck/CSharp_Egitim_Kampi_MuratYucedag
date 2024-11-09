@@ -46,7 +46,7 @@ namespace _09_DatabaseProject
             {
                 foreach(var item in row.ItemArray)
                 {
-                    Console.Write(item);
+                    Console.Write(item + " ");
                 }
                 Console.WriteLine();
 
